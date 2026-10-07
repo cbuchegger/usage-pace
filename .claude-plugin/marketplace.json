@@ -1,0 +1,13 @@
+{
+  "name": "usage-pace",
+  "description": "Claude Code rate-limit gauges with a Monday-to-Friday pace marker",
+  "owner": {
+    "name": "Clemens Buchegger"
+  },
+  "plugins": [
+    {
+      "name": "pace",
+      "source": "./"
+    }
+  ]
+}

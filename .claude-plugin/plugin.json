@@ -1,0 +1,9 @@
+{
+  "name": "pace",
+  "version": "0.1.0",
+  "description": "Session and weekly usage limits in the status line, with a Monday-to-Friday pace marker",
+  "author": {
+    "name": "Clemens Buchegger"
+  },
+  "types": "./types/index.d.ts"
+}
